@@ -13,6 +13,9 @@
         <mxCell id="_f5KFl1UVRihW3EeurW_-16" value="信号放大与滤波处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
