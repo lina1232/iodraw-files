@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="KZeBiGZEAMdY_RqPwXGt">
+    <mxGraphModel dx="1354" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_f5KFl1UVRihW3EeurW_-1" value="脑电信号采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1110" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-2" value="信号调理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1209" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-3" value="边缘计算处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1307" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-4" value="自适应滤波模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1406" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-5" value="特征提取模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1504" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-6" value="睡眠分期判别模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1603" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-7" value="结果输出模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1701" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-1" target="_f5KFl1UVRihW3EeurW_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-2" target="_f5KFl1UVRihW3EeurW_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-3" target="_f5KFl1UVRihW3EeurW_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-4" target="_f5KFl1UVRihW3EeurW_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-5" target="_f5KFl1UVRihW3EeurW_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-6" target="_f5KFl1UVRihW3EeurW_-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
