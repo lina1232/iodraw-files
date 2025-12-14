@@ -34,6 +34,9 @@
         <mxCell id="_f5KFl1UVRihW3EeurW_-19" value="提取睡眠相关特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-20" target="_f5KFl1UVRihW3EeurW_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f5KFl1UVRihW3EeurW_-20" value="睡眠阶段判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
