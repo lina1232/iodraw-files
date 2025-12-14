@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_f5KFl1UVRihW3EeurW_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-14" target="_f5KFl1UVRihW3EeurW_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f5KFl1UVRihW3EeurW_-14" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f5KFl1UVRihW3EeurW_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f5KFl1UVRihW3EeurW_-15" target="_f5KFl1UVRihW3EeurW_-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f5KFl1UVRihW3EeurW_-15" value="采集脑电信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1020" width="120" height="60" as="geometry" />
@@ -25,7 +31,7 @@
         <mxCell id="_f5KFl1UVRihW3EeurW_-21" value="输出睡眠分期结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_f5KFl1UVRihW3EeurW_-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_f5KFl1UVRihW3EeurW_-22" value="结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
