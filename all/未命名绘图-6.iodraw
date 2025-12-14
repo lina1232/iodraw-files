@@ -13,11 +13,11 @@
         <mxCell id="_f5KFl1UVRihW3EeurW_-16" value="信号放大与滤波处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_f5KFl1UVRihW3EeurW_-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_f5KFl1UVRihW3EeurW_-17" value="自适应滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_f5KFl1UVRihW3EeurW_-18" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1160" width="140" height="160" as="geometry" />
+        <mxCell id="_f5KFl1UVRihW3EeurW_-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
