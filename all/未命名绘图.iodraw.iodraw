@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UY9b1AvYDLixOWvWGb-z">
-    <mxGraphModel dx="1114" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hmSyAeVComu-Uh8El2zQ-1" value="本系统主要由脑电信号采集模块、主控处理模块、专注度分析模块以及游戏交互模块四部分组成，其总体结构如图所示。&#xa;&#xa;&#xa;┌─────────────────┐&#xa;│    用户大脑      │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 脑电采集模块     │&#xa;│ EEG电极+AFE芯片 │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 主控处理模块     │&#xa;│    ESP32-S3     │&#xa;└────────┬────────┘&#xa;         │ Wi-Fi/BLE&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 专注度分析模块   │&#xa;│ 特征提取+分类器 │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 游戏交互模块     │&#xa;│ Unity训练游戏   │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 实时反馈训练     │&#xa;└─────────────────┘&#xa;系统通过脑电采集设备获取用户实时脑电信号，经ESP32-S3传输至上位机分析平台，完成专注度计算后将结果反馈至游戏系统，实现专注状态与游戏行为的实时联动生成流程图" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="560" height="570" as="geometry" />
-        </mxCell>
         <mxCell id="hmSyAeVComu-Uh8El2zQ-2" value="用户大脑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="56" y="600" width="124" height="49" as="geometry" />
         </mxCell>
