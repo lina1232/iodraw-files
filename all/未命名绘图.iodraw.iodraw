@@ -7,6 +7,49 @@
         <mxCell id="hmSyAeVComu-Uh8El2zQ-1" value="本系统主要由脑电信号采集模块、主控处理模块、专注度分析模块以及游戏交互模块四部分组成，其总体结构如图所示。&#xa;&#xa;&#xa;┌─────────────────┐&#xa;│    用户大脑      │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 脑电采集模块     │&#xa;│ EEG电极+AFE芯片 │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 主控处理模块     │&#xa;│    ESP32-S3     │&#xa;└────────┬────────┘&#xa;         │ Wi-Fi/BLE&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 专注度分析模块   │&#xa;│ 特征提取+分类器 │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 游戏交互模块     │&#xa;│ Unity训练游戏   │&#xa;└────────┬────────┘&#xa;         │&#xa;         ▼&#xa;┌─────────────────┐&#xa;│ 实时反馈训练     │&#xa;└─────────────────┘&#xa;系统通过脑电采集设备获取用户实时脑电信号，经ESP32-S3传输至上位机分析平台，完成专注度计算后将结果反馈至游戏系统，实现专注状态与游戏行为的实时联动生成流程图" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="560" height="570" as="geometry" />
         </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-2" value="用户大脑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="600" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-3" value="脑电采集模块&#xa;EEG电极 + AFE芯片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="699" width="196" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-4" value="主控处理模块&#xa;ESP32-S3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="815" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-5" value="专注度分析模块&#xa;特征提取 + 分类器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23" y="953" width="190" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-6" value="游戏交互模块&#xa;Unity训练游戏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="1069" width="162" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-7" value="实时反馈训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1185" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hmSyAeVComu-Uh8El2zQ-2" target="hmSyAeVComu-Uh8El2zQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hmSyAeVComu-Uh8El2zQ-3" target="hmSyAeVComu-Uh8El2zQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-10" value="Wi-Fi / BLE" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hmSyAeVComu-Uh8El2zQ-4" target="hmSyAeVComu-Uh8El2zQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hmSyAeVComu-Uh8El2zQ-5" target="hmSyAeVComu-Uh8El2zQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmSyAeVComu-Uh8El2zQ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hmSyAeVComu-Uh8El2zQ-6" target="hmSyAeVComu-Uh8El2zQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
