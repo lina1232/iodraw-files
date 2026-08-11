@@ -25,6 +25,9 @@
         <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-3" value="5V tpye-c供电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sIAGNj7ROYQ3aXhYfYfJ-6" target="sIAGNj7ROYQ3aXhYfYfJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-6" value="5VLDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
