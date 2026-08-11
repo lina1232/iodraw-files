@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EvxmyX0uecOb0iw5aM_7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EvxmyX0uecOb0iw5aM_7-1" target="EvxmyX0uecOb0iw5aM_7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EvxmyX0uecOb0iw5aM_7-1" value="数据读取预筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -13,8 +16,19 @@
         <mxCell id="EvxmyX0uecOb0iw5aM_7-2" value="数据输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EvxmyX0uecOb0iw5aM_7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EvxmyX0uecOb0iw5aM_7-3" target="EvxmyX0uecOb0iw5aM_7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EvxmyX0uecOb0iw5aM_7-3" value="滤波去噪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxmyX0uecOb0iw5aM_7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvxmyX0uecOb0iw5aM_7-4" target="EvxmyX0uecOb0iw5aM_7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="250" />
+              <mxPoint x="100" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EvxmyX0uecOb0iw5aM_7-4" value="伪迹去除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
