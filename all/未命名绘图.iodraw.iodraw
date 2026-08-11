@@ -7,7 +7,7 @@
         <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-1" value="3.7锂电池供电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-2" value="充电模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
