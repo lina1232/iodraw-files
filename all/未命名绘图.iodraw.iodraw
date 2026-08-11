@@ -14,16 +14,16 @@
           <mxGeometry x="26" y="218" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MDCooOsfGQNXlZOK7xKL-4" value="BiGRU层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="20" width="120" height="49" as="geometry" />
+          <mxGeometry x="314" y="20" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MDCooOsfGQNXlZOK7xKL-5" value="时间依赖特征学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MDCooOsfGQNXlZOK7xKL-6" value="多头注意力机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="218" width="172" height="49" as="geometry" />
+          <mxGeometry x="288" y="218" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MDCooOsfGQNXlZOK7xKL-7" value="重要特征权重增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="614" width="188" height="49" as="geometry" />
+          <mxGeometry x="280" y="300" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MDCooOsfGQNXlZOK7xKL-8" value="睡眠阶段分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="42" y="713" width="156" height="49" as="geometry" />
