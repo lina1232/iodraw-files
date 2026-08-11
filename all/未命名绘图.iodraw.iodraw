@@ -34,7 +34,7 @@
         <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-10" value="-5VLDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sIAGNj7ROYQ3aXhYfYfJ-11" value="-2.5VLDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
