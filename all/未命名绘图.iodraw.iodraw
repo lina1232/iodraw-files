@@ -7,6 +7,9 @@
         <mxCell id="EvxmyX0uecOb0iw5aM_7-1" value="数据读取预筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EvxmyX0uecOb0iw5aM_7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EvxmyX0uecOb0iw5aM_7-2" target="EvxmyX0uecOb0iw5aM_7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EvxmyX0uecOb0iw5aM_7-2" value="数据输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,8 +25,8 @@
         <mxCell id="EvxmyX0uecOb0iw5aM_7-8" value="样本分段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EvxmyX0uecOb0iw5aM_7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="EvxmyX0uecOb0iw5aM_7-9" value="数据输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
