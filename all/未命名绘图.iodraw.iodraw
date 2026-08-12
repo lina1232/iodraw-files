@@ -4,6 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-1" value="脑电采集 → 数据传输 → EEG预处理 → 睡眠分期模型 → 睡眠阶段输出" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-2" value="脑电采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-3" value="数据传输" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="70" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-4" value="EEG预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="70" width="136" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-5" value="睡眠分期模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="70" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-6" value="睡眠阶段输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="jfzKSIG2nak3FJ8k5u96-2" target="jfzKSIG2nak3FJ8k5u96-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="jfzKSIG2nak3FJ8k5u96-3" target="jfzKSIG2nak3FJ8k5u96-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="jfzKSIG2nak3FJ8k5u96-4" target="jfzKSIG2nak3FJ8k5u96-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfzKSIG2nak3FJ8k5u96-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="jfzKSIG2nak3FJ8k5u96-5" target="jfzKSIG2nak3FJ8k5u96-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
