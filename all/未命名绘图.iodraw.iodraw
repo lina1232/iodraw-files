@@ -1,17 +1,25 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UY9b1AvYDLixOWvWGb-z">
-    <mxGraphModel dx="928" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-21" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;同步采集脑电信号、脉搏波信号与头部运动信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-22" target="Hmu-cbJlrg0C3Tn3ZuTF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-22" value="&lt;p style=&quot;line-height:150%&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;line-height:150%;font-family:宋体;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;脑电信号滤波预处理&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-23" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;从去噪后的脑电信号中提取中枢通路特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-26" value="多模态融合计算输出压力等评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="220" height="60" as="geometry" />
