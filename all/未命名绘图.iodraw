@@ -13,7 +13,7 @@
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-22" value="对各个模态信号分别进行特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rGEQe4MU6wgLsFgjn_mt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-23" value="多模态融合计算后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
