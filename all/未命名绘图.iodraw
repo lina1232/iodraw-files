@@ -16,8 +16,14 @@
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;S2：对脑电信号进行前置放大、带通滤波与陷波滤波，对脉搏波信号进行带通滤波与直流分量消除&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="280" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGEQe4MU6wgLsFgjn_mt-22" target="rGEQe4MU6wgLsFgjn_mt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-22" value="S3：从去噪后的脑电信号中提取中枢通路特征，从脉搏波信号中提取外周通路特征，从头部运动信号中提取运动强度特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGEQe4MU6wgLsFgjn_mt-23" target="rGEQe4MU6wgLsFgjn_mt-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-23" value="S4-1：在标定期内建立个体化基线区间，并估计脑电信号与脉搏波信号之间的个体化传导延迟&lt;p style=&quot;line-height:150%&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;line-height:150%;font-family:宋体;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="280" height="80" as="geometry" />
