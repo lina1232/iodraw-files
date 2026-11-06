@@ -19,8 +19,8 @@
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-24" value="S4-2：按个体化传导延迟对中枢通路特征与外周通路特征进行延迟补偿对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rGEQe4MU6wgLsFgjn_mt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-25" value="S4-3：以各模态偏离向量之间的方向一致性生成门控增益，对融合权重进行门控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
