@@ -22,8 +22,11 @@
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-25" value="S4-3：以各模态偏离向量之间的方向一致性生成门控增益，对融合权重进行门控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rGEQe4MU6wgLsFgjn_mt-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-26" value="S4-4：以第一时长窗与第二时长窗分别得到快通路评分与慢通路评分，按先触发、后确认的时序关系输出压力负荷评分、唤醒水平评分与放松状态评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
