@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rGEQe4MU6wgLsFgjn_mt-20" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&amp;lt;br/&amp;gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;S1:通过佩戴于耳后的柔性贴片同步采集脑电信号、脉搏波信号与头部运动信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-20" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;S1：通过佩戴于耳后的柔性贴片同步采集脑电信号、脉搏波信号与头部运动信号&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-21" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&amp;lt;br/&amp;gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;S2:对所述脑电信号进行预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,8 +25,8 @@
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-26" value="S4-4：以第一时长窗与第二时长窗分别得到快通路评分与慢通路评分，按先触发、后确认的时序关系输出压力负荷评分、唤醒水平评分与放松状态评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rGEQe4MU6wgLsFgjn_mt-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-27" value="S5：将当前模态偏离向量投影至个体化升级方向模板，根据轨迹投影系数、轨迹相似度、偏移速率与累积负荷计算情绪爆发风险值，在风险值超过预警阈值时输出预警信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
