@@ -14,10 +14,13 @@
           <mxGeometry x="80" y="320" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-23" value="S4-1：在标定期内建立个体化基线区间，并估计脑电信号与脉搏波信号之间的个体化传导延迟&lt;p style=&quot;line-height:150%&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;line-height:150%;font-family:宋体;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="280" height="80" as="geometry" />
+          <mxGeometry x="440" y="80" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-24" value="S4-2：按个体化传导延迟对中枢通路特征与外周通路特征进行延迟补偿对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="280" height="80" as="geometry" />
+          <mxGeometry x="440" y="200" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
