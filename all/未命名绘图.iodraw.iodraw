@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-1" target="Hmu-cbJlrg0C3Tn3ZuTF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-1" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;柔性贴片采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-2" target="Hmu-cbJlrg0C3Tn3ZuTF-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-2" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;信号调理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
@@ -13,8 +19,17 @@
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;多模态特征提取模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-4" target="Hmu-cbJlrg0C3Tn3ZuTF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-4" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;个体化基线标定模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-5" target="Hmu-cbJlrg0C3Tn3ZuTF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hmu-cbJlrg0C3Tn3ZuTF-5" target="Hmu-cbJlrg0C3Tn3ZuTF-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hmu-cbJlrg0C3Tn3ZuTF-5" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;多模态融合评估模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
