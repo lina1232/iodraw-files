@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGEQe4MU6wgLsFgjn_mt-20" target="rGEQe4MU6wgLsFgjn_mt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-20" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;S1：通过佩戴于耳后的柔性贴片同步采集脑电信号、脉搏波信号与头部运动信号&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGEQe4MU6wgLsFgjn_mt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGEQe4MU6wgLsFgjn_mt-21" target="rGEQe4MU6wgLsFgjn_mt-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rGEQe4MU6wgLsFgjn_mt-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;S2：对脑电信号进行前置放大、带通滤波与陷波滤波，对脉搏波信号进行带通滤波与直流分量消除&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="280" height="80" as="geometry" />
